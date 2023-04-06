@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/sujeb2/register",
+
+  "owner": {
+    "username": "sujeb2",
+    "email": "sdbb2q@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "docs", 
+       "value": "https://sujeb2-docs.gitbook.io/untitled/"
+     }
+  },
+
+  "proxied": false
+}
